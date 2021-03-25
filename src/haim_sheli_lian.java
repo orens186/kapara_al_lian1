@@ -3,5 +3,6 @@ public class haim_sheli_lian {
         int x = 3;
         int y = 5;
         int z = x + y;
+        int t = z + y;
     }
 }
